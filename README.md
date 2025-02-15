@@ -10,4 +10,4 @@ Sou estudante de Ciência da Computação no último ano, apaixonado por program
 - HTML, CSS, JavaScript, Bootstrap, Python, MySql, Git, GitHub
 
 **LinkedIn**: [João Vitor Papalardo](https://www.linkedin.com/in/joaopapalardo/)
-**Porfolio** : [link](https://joaovitorpapalardo.github.io/joao-papalardo/)
+**Portfolio** : [link](https://joaovitorpapalardo.github.io/joao-papalardo/)
