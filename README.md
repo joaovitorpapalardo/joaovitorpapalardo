@@ -9,6 +9,13 @@ Sou estudante de Ciência da Computação no último ano, apaixonado por program
 ## Ferramentas e Tecnologias:
 - HTML, CSS, JavaScript, Bootstrap, PHP, MySql, Python, Git, GitHub
 
+- 🌐 HTML5
+- 🎨 CSS3
+- 🧠 JavaScript
+- 🐘 PHP
+- 🐍 Python
+
+
 **LinkedIn**: [João Vitor Papalardo](https://www.linkedin.com/in/joaopapalardo/)
 **Portfolio** : [link](https://joaovitorpapalardo.github.io/joao-papalardo/)
 
