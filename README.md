@@ -8,7 +8,7 @@ Sou estudante de Ciência da Computação no último ano, apaixonado por program
 
 ## Ferramentas e Tecnologias:
 
-- HTML | CSS | JavaScript | Bootstrap | PHP | MySql | Python | Git | GitHub 
+- HTML  |  CSS  |  JavaScript  |  Bootstrap  |  PHP  |  MySql  |  Python  |  Git  |  GitHub 
 
 
 
