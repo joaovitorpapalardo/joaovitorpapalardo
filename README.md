@@ -7,7 +7,7 @@ Sou estudante de Ciência da Computação no último ano, apaixonado por program
 - Melhores práticas de programação e arquitetura de software
 
 ## Ferramentas e Tecnologias:
-- HTML, CSS, JavaScript, Bootstrap, Python, MySql, Git, GitHub
+- HTML, CSS, JavaScript, Bootstrap, PHP, MySql, Python, Git, GitHub
 
 **LinkedIn**: [João Vitor Papalardo](https://www.linkedin.com/in/joaopapalardo/)
 **Portfolio** : [link](https://joaovitorpapalardo.github.io/joao-papalardo/)
