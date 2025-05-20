@@ -13,6 +13,6 @@ Sou estudante de Ciência da Computação no último ano, apaixonado por program
 
 
 
-**LinkedIn**: [João Vitor Papalardo](https://www.linkedin.com/in/joaopapalardo/)
+**LinkedIn**: [João Vitor Papalardo](https://www.linkedin.com/in/joaopapalardo/)  
 **Portfolio** : [link](https://joaovitorpapalardo.github.io/joao-papalardo/)
 
